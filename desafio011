@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+     <head>
+     	<title>FREDERICO CRUZ CV</title>
+     	<meta charset="utf-8">
+     </head>
+     
+
+     <body>
+     	<h1>Frederico Cruz Costa</h1>
+     	<p><b>Cidade:</b> São Paulo</p>
+     	<p><b>Telefone:</b> (11) 666-666</p>
+     	<p><b>E-mail:</b><a href="mailto:frederico.cruzc@gmail.com" target="_top">frederico.cruzc@gmail.com</a></p>
+
+     	<hr />
+
+
+<br><br>
+     	<h2>Ojetivo</h2>
+     	<p>Conseguir ser um programador tão bom que as empresas brigarão para me contratarem.</p>
+     	<br><br>
+
+     	<h2>Formação</h2>
+     	<p><b>Superior Incompleto - Comunicação Social</b><br>
+     	Universidade Federal do Rio Grande do Norte</p>
+     	<p><b>Curso Tecnico de Teatro</b><br>
+     	Escola de Atores Wolf Maya</p>
+     	<br><br>
+
+     	<h2>Experiência</h2>
+     	<a><h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCe0U2CjhWR3ZKBLjMS97lc_6USMrgQ20EIVFE64dCdSEmduik3ZdXL6RnW9g3P0lq5SI&usqp=CAU" width="50"><b>Professor de Inglês -</a> <a href="https://cna.com.br/">CNA</a></b></h3>
+     	<p>Professor de crianças a adultos, dos níveis mais básicos aos mais avançados</p>
+
+     	<a><p><img src="https://www.abcdacomunicacao.com.br/wp-content/uploads/O2-Filmes_logo-baixa.jpeg" width="50"><b>Assistente de Proutor de Elenco -</a><a href="https://o2filmes.com/"> O2 </a> e Mixer Filmes</b>
+     	<p>Fazia a ponte entre os atores e/ou suas agências; e a produção do projeto do momento.</p> 
+     		<br><br><br>
+
+
+        <h2>Habilidades</h2>
+        <ul>
+        	<li>HTML Básico</li>
+        	<li>Inglês Fluente</li>
+        	<li>Sou legal, juro!</li>
+
+        </ul>
+
+
+
+     </body>
+
+
+</html>
